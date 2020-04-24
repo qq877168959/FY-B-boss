@@ -3,33 +3,16 @@
   font-weight:400;
   font-style:normal;
   font-size:13px;
+  letter-spacing:normal;
   color:#333333;
+  vertical-align:none;
   text-align:center;
   line-height:normal;
+  text-transform:none;
 }
-.box_1 {
+._形状 {
 }
-.box_2 {
-}
-.heading_2 {
-  font-family:'ArialMT', 'Arial';
-  font-weight:bold;
-  font-style:normal;
-  font-size:24px;
-  text-align:left;
-}
-.heading_3 {
-  font-family:'ArialMT', 'Arial';
-  font-weight:bold;
-  font-style:normal;
-  font-size:18px;
-  text-align:left;
-}
-.box_3 {
-}
-.ellipse {
-}
-._图片 {
+._图片_ {
 }
 .placeholder {
 }
@@ -79,6 +62,12 @@
   font-size:10px;
   text-align:left;
 }
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.shape {
+}
 ._文本段落 {
   text-align:left;
 }
@@ -87,37 +76,83 @@
 }
 .line {
 }
-._流程形状 {
-}
-.table_cell {
-}
-.label {
-  font-size:14px;
-  text-align:left;
-}
-._图片1 {
-  color:#000000;
-}
-._形状 {
-}
-.shape {
-}
-.image {
-}
-.text_field {
-  color:#000000;
-  text-align:left;
-}
 .checkbox {
   text-align:left;
 }
-.radio_button {
+.form_disabled {
+}
+._二级标题1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
   text-align:left;
 }
-.html_button {
-  text-align:center;
+._表单提示 {
+  color:#999999;
+}
+._表单禁用 {
+}
+._流程形状 {
+}
+._连接 {
+}
+._文本段落1 {
+  text-align:left;
+}
+._形状1 {
+}
+._图片_1 {
+  color:#000000;
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
+._文本域 {
+  color:#000000;
+  text-align:left;
+}
+.box_1 {
+}
+.box_2 {
+}
+.heading_1 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.box_3 {
+}
+.ellipse {
+}
+.heading_3 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.image {
+}
+.iconfont {
+  font-family:'iconfont';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
 }
 .icon {
 }
-.flow_shape {
+._线段 {
 }
+textarea, select, input, button { outline: none; }
